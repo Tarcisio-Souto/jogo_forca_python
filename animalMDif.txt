@@ -1,0 +1,15 @@
+abelha,águia,alce,andorinha,anta,antílope,aranha,ave-lira,avestruz,babuíno,baleia,
+barata,bisão,boi,borboleta,búfalo,burro,cabra,cação,camelo,canguru,caracol,caranguejo,
+carneiro,castor,cavalo,cefo,chacal,chimpanzé,cisne,cobra,coelho,coiote,cormorão,coruja,
+corvo,cotovia,crocodilo,cudu,doninha,dragão-de-komodo,dugongo,elefante,enguia,equidnas,
+esquilo,estrela-do-mar,falcão,foca,formiga,frango,fuinha,furão,gaivota,ganso,garça-real,
+gato,gauro,garça,gazela,gerbilo,girafa,gnu,golfinho,gorila,guanaco,guaxinim,hamster,
+hiena,hipopótamo,iaque,iguana,jacaré,jaguar,javali,kouprey,lagarta,lagarto,lagosta,
+leão,leão do mar,lebre,lémure,leopardo,lhama,libélula,lobo,lontra,loris,lula,macaco,
+medusa,morcego,morsa,mosca,mosquito,mula,musaranho,ocapi,órix,ostra,ouriço,ovelha,panda,
+pato,pato-real,pavão,pega,peixe-boi,pelicano,perdiz,perú,pónei,porco,porco-espinho,puma,
+porquinho-da-índia,raposa,ratazana,rato,rena,rinoceronte,rouxinol,salamandra,sapo,
+serpente,suricata,tarsius,tartaruga,tatu,tentilhão,texugo,tigre,toupeira,uapiti,urso,
+tubarão,veado,vespa,vespão,vison,zebra
+
+	

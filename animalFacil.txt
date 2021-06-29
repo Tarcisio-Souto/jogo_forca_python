@@ -1,0 +1,1 @@
+gato,barata,coelho,pássaro,peixe
